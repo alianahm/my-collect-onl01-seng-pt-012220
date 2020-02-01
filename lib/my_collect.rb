@@ -1,4 +1,4 @@
-def each(array)
+def my(array)
 new_array = []
  i = 0
   while i < array.length
